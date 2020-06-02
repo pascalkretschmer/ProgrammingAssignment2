@@ -1,6 +1,7 @@
 ## The cachematrix.R file contains two functions, makeCacheMatrix() and cacheSolve(). 
 ## The first function in the file, makeCacheMatrix() creates an R object that stores 
-## a matrix and its inverse (please check here () to understand the inverse of matrix. 
+## a matrix and its inverse (please check here (https://www.mathsisfun.com/algebra/matrix-inverse.html) 
+## to understand the inverse of matrix. 
 ## The second function, cacheSolve() requires an argument 
 ## that is returned by makeCacheMatrix() in order to retrieve the inverse matrix 
 ## from the cached value that is stored in the makeVector() object's environment.
